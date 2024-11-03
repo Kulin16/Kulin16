@@ -1,4 +1,4 @@
-Name: Coleen D. bedia
+Name: Coleen D. Bedia
 
 Education: Cielito Zamora Junior High School S.Y. 2017-2021.
            Cielito Zamora Senior High School S.Y. 2021-2023.
