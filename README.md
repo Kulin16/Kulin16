@@ -1,8 +1,8 @@
 Name: Coleen D. bedia
 
-Education: Cielito Zamora Junior High School 2017-2021
-           Cielito Zamora Senior High School 2021-2023
-           New Era University 2023-Present
+Education: Cielito Zamora Junior High School S.Y 2017-2021
+           Cielito Zamora Senior High School S.Y 2021-2023
+           New Era University A.Y 2023-Present
 
 Certification: Certificate of Appreciation - Dance Crew Member, KICKS at the  NEU Hataw Sayaw
                Certificate of Recognition - President's Lister
