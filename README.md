@@ -1,4 +1,19 @@
-## Hi there 👋
+Name: Coleen D. bedia
+
+Education: Cielito Zamora Junior High School 2017-2021
+           Cielito Zamora Senior High School 2021-2023
+           New Era University 2023-Present
+
+Certification: Certificate of Appreciation - Dance Crew Member, KICKS at the  NEU Hataw Sayaw
+               Certificate of Recognition - President's Lister
+               Academic Excellence - SHS With Honors 2022-2023
+               Certificate of Recognition - Leadership Award and Immersion
+
+Skillsets: Adaptability and Flexibility
+           Problem Solving
+           Communication, Teamwork and Collaboration
+           Project Management
+           Research and Analytical
 
 <!--
 **Kulin16/Kulin16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
