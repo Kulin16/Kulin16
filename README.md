@@ -8,10 +8,9 @@ New Era University A.Y. 2023-Present.
 
 Certification 
 
-Certificate of Appreciation - Dance Crew Member, KICKS at the  NEU Hataw Sayaw.
-Certificate of Recognition - President's Lister.
-Academic Excellence - SHS With Honors 2022-2023.
-Certificate of Recognition - Leadership Award and Immersion.
+Oracle OCI AI Foundations Associate BADGE:
+
+- https://catalog-education.oracle.com/ords/certview/sharebadge?id=B456DFB6BE4C4BCCE08B6788B375B0CE5F1E7B8C1DF6C7659CF78DEE3AF44962&fbclid=IwY2xjawHP0bhleHRuA2FlbQIxMQABHSoQsvOTzMS3hn8MNy4usnFv5ZLOuGV584o8TkGP_jTaOz8eQtSYmVwIEA_aem_6UdOnQok5pbJ0M1EiB2_Lw
 
 Skillsets
 
@@ -20,6 +19,9 @@ Problem Solving.
 Communication, Teamwork and Collaboration.
 Project Management.
 Research and Analytical
+
+
+
 
 <!--
 **Kulin16/Kulin16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
